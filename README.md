@@ -9,7 +9,7 @@ important internal symmetries which are also strongly associated  with the study
 <a href="http://boole.stanford.edu/pub/ph94.pdf">Pratt</a> as well as 
 <a href="https://www.cs.ox.ac.uk/files/2372/RR-09-08.pdf">Abramsky</a>. Additionally, work with 
 <a href="">Closure Spaces</a> by <a href="https://en.wikipedia.org/wiki/Diederik_Aerts">Aerts</a> points towards further association with general interconnected automata theory which points towards a positive resolution of the old 
-<a href="http://www.ideal-ist.eu/ps-it-89787">"Zuse-Fredkin" Conjecture</a>, recently revived by <a href="www.wolframscience.com/nksonline/toc.html">Wolfram</a>. The only essential difference that has not been examined by previous authors is the possibility of a purely analog implenetation
+<a href="https://de.wikipedia.org/wiki/Konrad_Zuse#.E2.80.9ERechnender_Raum.E2.80.9C">"Zuse-Fredkin" Conjecture</a>, recently revived by <a href="http://www.ideal-ist.eu/ps-it-89787"></a> and <a href="www.wolframscience.com/nksonline/toc.html">others</a>. The only essential difference that has not been examined by previous authors is the possibility of a purely analog implenetation
 of such automata based on certain Fourier encodings as those used in the 
 <a href="https://github.com/rtheo/Musarithmica">"Musarithmica"</a> project.
 
