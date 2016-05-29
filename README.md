@@ -14,8 +14,8 @@ important internal symmetries which are also strongly associated  with the study
 The only additional possibility that has been left unchecked by previous authors is the possibility of a purely analog implenetation of such automata based on certain Fourier encodings as those used in the 
 <a href="https://github.com/rtheo/Musarithmica">"Musarithmica"</a> project.
 
-In the context used here, reverse order is interpreted as the property of the two half-intervals of every Lexicon matrix to be NOT-complement of the other. Integers in these two subintervals are analytically associated as http://mathurl.com/jbychgn. With respect ot Hadamard (bitwise) operations like AND and OR acting on pairs of integers, any Lexicon can be equipped with the additional necessary property required for <a href="https://en.wikipedia.org/wiki/Complemented_lattice#Orthomodular_lattices">
-Orthomodularity</a>. This necessarilly results in a restricted subset. The mecahsnims for such a restriction is provided in two
+In the context used here, reverse order is interpreted as the property of the two half-intervals of every Lexicon matrix to be NOT-complement of the other. Integers in these two subintervals are analytically associated as http://mathurl.com/jbychgn. With respect to Hadamard (bitwise) operations like AND and OR acting on pairs of integers, any Lexicon can be equipped with the additional necessary property required for <a href="https://en.wikipedia.org/wiki/Complemented_lattice#Orthomodular_lattices">
+Orthomodularity</a>. This necessarilly results in a restricted subset. Μecahnisms for such a restriction is provided in two
 possible forms
 
 Orthomod code shows a method by which an L+K Lexicon is restricted to a subest given by a (Mod L) filter which always results in periodic trajectories in the upper triangular part.
