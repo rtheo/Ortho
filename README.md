@@ -12,7 +12,7 @@ important internal symmetries which are also strongly associated  with the study
 <a href="https://de.wikipedia.org/wiki/Konrad_Zuse#.E2.80.9ERechnender_Raum.E2.80.9C">"Zuse-Fredkin" Conjecture</a>, recently revived by <a href="www.wolframscience.com/nksonline/toc.html">Wolfram</a> and
 <a href="http://www.ideal-ist.eu/ps-it-89787">others</a><br>
 
-There at least two additional possibilities that have not been thoroughly examined as yet. 
+There at least two additional possibilities that have not been thoroughly examined as yet which make one think whether the devil has been hidden in the implementation. 
 
 The possibility of a purely analog implenetation of such automata based on certain Fourier encodings as those used in the 
 <a href="https://github.com/rtheo/Musarithmica">"Musarithmica"</a> project.
