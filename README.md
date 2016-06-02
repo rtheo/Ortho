@@ -20,7 +20,7 @@ There at least two additional possibilities that have not been thoroughly examin
 2. The possibility of such a machine working directly on the wavelength rather than the frequency domain with perhaps a self-modifying code able also to interact with the machine's structure thus causing "Doppler shifts" and perhaps sustaining a variable Lorentzian or even Poincare group structure. Such an interaction is strictly forbidden in standard digital architectures and even nowadays mostly threatening virii cannot directly interfere to the hardware itself apart from overheating perhaps (unless NSA has done better of course!) 
 
 In the context used here, reverse order is interpreted as the property of the two half-intervals of every Lexicon matrix to be the NOT-complement of the other. Integers in these two subintervals are analytically associated as http://mathurl.com/jbychgn. With respect to Hadamard (bitwise) operations like AND and OR acting on pairs of integers, any Lexicon can be equipped with the additional necessary property required for <a href="https://en.wikipedia.org/wiki/Complemented_lattice#Orthomodular_lattices">
-Orthomodularity</a>. This necessarilly results in a restricted subset. Μecahnisms for such a restriction is provided in two
+Orthomodularity</a>. This necessarilly results in a restricted subset. Μecahnisms for such a restriction are provided in two
 possible forms
 
 Orthomod code shows a method by which an L+K Lexicon is restricted to a subest given by a (Mod L) filter which always results in periodic trajectories in the upper triangular part.
