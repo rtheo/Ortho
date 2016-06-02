@@ -14,10 +14,10 @@ important internal symmetries which are also strongly associated  with the study
 
 There at least two additional possibilities that have not been thoroughly examined as yet which make one think whether the devil has been hidden in the implementation. 
 
-The possibility of a purely analog implenetation of such automata based on certain Fourier encodings as those used in the 
+1. The possibility of a purely analog implenetation of such automata based on certain Fourier encodings as those used in the 
 <a href="https://github.com/rtheo/Musarithmica">"Musarithmica"</a> project.
 
-The possibility of such a machine working directly on the wavelength rather than the frequency domain with perhaps a self-modifying code able also to interact with the machine's structure thus causing "Doppler shifts" and perhaps sustaining a variable Lorentzian or even Poincare group structure. Such an interaction is strictly forbidden in standard digital architectures and even nowadays mostly threatening virii cannot directly interfere to the hardware itself apart from overheating perhaps (unless NSA has done better of course!) 
+T2. he possibility of such a machine working directly on the wavelength rather than the frequency domain with perhaps a self-modifying code able also to interact with the machine's structure thus causing "Doppler shifts" and perhaps sustaining a variable Lorentzian or even Poincare group structure. Such an interaction is strictly forbidden in standard digital architectures and even nowadays mostly threatening virii cannot directly interfere to the hardware itself apart from overheating perhaps (unless NSA has done better of course!) 
 
 In the context used here, reverse order is interpreted as the property of the two half-intervals of every Lexicon matrix to be the NOT-complement of the other. Integers in these two subintervals are analytically associated as http://mathurl.com/jbychgn. With respect to Hadamard (bitwise) operations like AND and OR acting on pairs of integers, any Lexicon can be equipped with the additional necessary property required for <a href="https://en.wikipedia.org/wiki/Complemented_lattice#Orthomodular_lattices">
 Orthomodularity</a>. This necessarilly results in a restricted subset. Μecahnisms for such a restriction is provided in two
