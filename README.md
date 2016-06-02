@@ -12,12 +12,14 @@ important internal symmetries which are also strongly associated  with the study
 <a href="https://de.wikipedia.org/wiki/Konrad_Zuse#.E2.80.9ERechnender_Raum.E2.80.9C">"Zuse-Fredkin" Conjecture</a>, recently revived by <a href="www.wolframscience.com/nksonline/toc.html">Wolfram</a> and
 <a href="http://www.ideal-ist.eu/ps-it-89787">others</a><br>
 
-There at least two additional possibilities that have not been thoroughly examined as yet which make one think whether the devil has been hidden in the implementation. 
+There at least two additional possibilities that have not been thoroughly examined as yet which make one think whether the devil was actually hidden in the "implementation". 
 
 1. The possibility of a purely analog implenetation of such automata based on certain Fourier encodings as those used in the 
 <a href="https://github.com/rtheo/Musarithmica">"Musarithmica"</a> project.
 
-2. The possibility of such a machine working directly on the wavelength rather than the frequency domain with perhaps a self-modifying code able also to interact with the machine's structure thus causing "Doppler shifts" and perhaps sustaining a variable Lorentzian or even Poincare group structure. Such an interaction is strictly forbidden in standard digital architectures and even nowadays mostly threatening virii cannot directly interfere to the hardware itself apart from overheating perhaps (unless NSA has done better of course!) 
+2. The possibility of such a machine working directly on the wavelength rather than the frequency domain with perhaps a self-modifying code able also to interact with the machine's structure thus causing "Doppler shifts" and perhaps sustaining a variable Lorentzian or even Poincare group structure. 
+ 
+Such an interaction is strictly forbidden in standard digital architectures and even nowadays mostly threatening virii cannot directly interfere to the hardware itself apart from overheating perhaps (unless NSA has done better of course!) If such was the case, one would be tempted to say that "quantum" things are related to the information encoded while "gravity" things come out from an interplay with the "Machine" infrastructure. This last observation of course leaves room for thought on how to invert that particular interplay.
 
 In the context used here, reverse order is interpreted as the property of the two half-intervals of every Lexicon matrix to be the NOT-complement of the other. Integers in these two subintervals are analytically associated as http://mathurl.com/jbychgn. With respect to Hadamard (bitwise) operations like AND and OR acting on pairs of integers, any Lexicon can be equipped with the additional necessary property required for <a href="https://en.wikipedia.org/wiki/Complemented_lattice#Orthomodular_lattices">
 Orthomodularity</a>. This necessarilly results in a restricted subset. Μecahnisms for such a restriction are provided in two
