@@ -8,7 +8,7 @@ of the integers themselves. The set of all such powersets arranged as a natural 
 important internal symmetries which are also strongly associated  with the study of <a href="http://chu.stanford.edu">Chu Spaces</a>. Such associations have also been implied for some time now in the work of 
 <a href="http://boole.stanford.edu/pub/ph94.pdf">Pratt</a> as well as 
 <a href="https://www.cs.ox.ac.uk/files/2372/RR-09-08.pdf">Abramsky</a>. Additionally, work with 
-<a href="">Closure Spaces</a> by <a href="https://en.wikipedia.org/wiki/Diederik_Aerts">Aerts</a> points towards further association with general interconnected automata theory which points towards a positive resolution of the old 
+<a href="https://www.cs.virginia.edu/~jlp/closure.overview.html">Closure Spaces</a> by <a href="https://en.wikipedia.org/wiki/Diederik_Aerts">Aerts</a> points towards further association with general interconnected automata theory which points towards a positive resolution of the old 
 <a href="https://de.wikipedia.org/wiki/Konrad_Zuse#.E2.80.9ERechnender_Raum.E2.80.9C">"Zuse-Fredkin" Conjecture</a>, recently revived by <a href="www.wolframscience.com/nksonline/toc.html">Wolfram</a> and
 <a href="http://www.ideal-ist.eu/ps-it-89787">others</a><br>
 
