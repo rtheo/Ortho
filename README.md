@@ -10,7 +10,8 @@ important internal symmetries which are also strongly associated  with the study
 <a href="https://www.cs.ox.ac.uk/files/2372/RR-09-08.pdf">Abramsky</a>. Additionally, work with 
 <a href="https://www.cs.virginia.edu/~jlp/closure.overview.html">Closure Spaces</a> by <a href="https://en.wikipedia.org/wiki/Diederik_Aerts">Aerts</a> points towards further association with general interconnected automata theory which points towards a positive resolution of the old 
 <a href="https://de.wikipedia.org/wiki/Konrad_Zuse#.E2.80.9ERechnender_Raum.E2.80.9C">"Zuse-Fredkin" Conjecture</a>, recently revived by <a href="www.wolframscience.com/nksonline/toc.html">Wolfram</a> and
-<a href="http://www.ideal-ist.eu/ps-it-89787">others</a><br>
+<a href="http://www.ideal-ist.eu/ps-it-89787">others</a><br>. As of 2015, a proposal to this direction has been published by
+Garcia-Morales based on a <a href="https://link.springer.com/article/10.1007/s10701-015-9865-x">Radix Economy Principle</a>
 
 There at least two additional possibilities that have not been thoroughly examined as yet which make one think whether the devil was actually hidden in the "implementation". 
 
