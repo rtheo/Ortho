@@ -4,10 +4,13 @@ Arithmetization of Ortho-Lattices
 An ongoing project on the deeper connections between arithmetic combinatorial structures and the nature of quantum logic<br> constructs. Given a particular factorial design as a powerset of all lexicographically ordered bit-strings one discovers the
 most vasic property of "Reverse Order" required for 
 <a href="https://en.wikipedia.org/wiki/Complemented_lattice">Orthomodularity</a> been inherent to the polynomial representation
-of the integers themselves. The set of all such powersets arranged as a natural hierarchy of L x 2^L matrices which be henceforth called "Lexicons", hides certain 
-important internal symmetries which are also strongly associated  with the study of <a href="http://chu.stanford.edu">Chu Spaces</a>. Such associations have also been implied for some time now in the work of 
+of the integers themselves. The set of all such powersets arranged as a natural hierarchy of L x 2^L matrices which be henceforth called "Lexicons" or "Dictionaries", hides certain 
+important internal symmetries about which there are reasons to believ that they might also be strongly associated  with the study of <a href="http://chu.stanford.edu">Chu Spaces</a>. Such associations have also been implied for some time now in the work of 
 <a href="http://boole.stanford.edu/pub/ph94.pdf">Pratt</a> as well as 
-<a href="https://www.cs.ox.ac.uk/files/2372/RR-09-08.pdf">Abramsky</a>. Additionally, work with 
+<a href="https://www.cs.ox.ac.uk/files/2372/RR-09-08.pdf">Abramsky</a>. 
+
+Notably, one can find also associations with other branches due to previous work by Arleta Griffor (<a href="http://www.bbk.ac.uk/tpru/">ANPA</a> Group, Birkbeck) on a rigorous proof for the isomorphy of word combinatorics from higher radix alphabets with all Clifford algebras via a special uniqueness filter applied on Dictionaries.
+Additionally, work with 
 <a href="https://www.cs.virginia.edu/~jlp/closure.overview.html">Closure Spaces</a> by <a href="https://en.wikipedia.org/wiki/Diederik_Aerts">Aerts</a> points towards further association with general interconnected automata theory which points towards a positive resolution of the old 
 <a href="https://de.wikipedia.org/wiki/Konrad_Zuse#.E2.80.9ERechnender_Raum.E2.80.9C">"Zuse-Fredkin" Conjecture</a>, recently revived by <a href="www.wolframscience.com/nksonline/toc.html">Wolfram</a> and
 <a href="http://www.ideal-ist.eu/ps-it-89787">others</a><br>. 
