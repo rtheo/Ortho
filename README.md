@@ -40,3 +40,5 @@ Orthomod code shows a method by which an L+K Lexicon is restricted to a subest g
 Orthofilter code generalizes this principle with the use of arbitrary filters provided by logical masks for the exclusion of K bits. Evidently there exist exactly 2^L - 2 such nontrivial filters (excluding all zeros and all ones) grouped into http://mathurl.com/hd4vfor groups as the coefficients of the binomial.
 
 Orthomovie makes a complete run over all such filters and makes a movie of all intermediate filtered matrices. An example is given by the movie Orthomovie6.avi for the 6 x 64 Lexicon matrix.
+
+<a href="https://en.wikipedia.org/wiki/Kobayashi_Issa">露の世は露の世ながらさりながら</a>
