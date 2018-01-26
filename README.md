@@ -17,7 +17,7 @@ Additionally, work with
 <a href="https://dl.acm.org/citation.cfm?id=144104">ToE</a> based on the old but still in use APL array language invented by 
 <a href="https://en.wikipedia.org/wiki/Kenneth_E._Iverson">Kenneth Iverson</a>. His unique and largely unknown body of work has lately been incorporated in a book by Michael Zaus on the <a href="https://www.adlibris.com/se/bok/crisp-and-soft-computing-with-hypercubical-calculus-9783662113806">Hypercubic Calculus</a>. 
 
-As of 2015, a proposal to a direction aligned with some of the above has been published by Garcia-Morales based on a <a href="https://link.springer.com/article/10.1007/s10701-015-9865-x">Radix Economy Principle</a> and as of 2017, a particularly strong -if "solipsistic"- informational interpretation appeared in Mueller's 
+As of 2015, a proposal to a direction aligned with some of the above has been published by Garcia-Morales based on a <a href="https://link.springer.com/article/10.1007/s10701-015-9865-x">Radix Economy Principle</a> and as of 2017, a particularly strong -and perhaps the most tightly associated with the Dictionaries hierarchy- informational interpretation appeared in Mueller's 
 <a href="https://arxiv.org/abs/1712.01826">Emergent Space-Time</a> model of observer dynamics.
 Yet, too many things remain to be discerned since all of the above pioneers may have probably witnessed only parts of what perhaps can only be described in literary terms as the eternal, infinite Borges 
 <a href="https://en.wikipedia.org/wiki/The_Library_of_Babel">Library</a>
